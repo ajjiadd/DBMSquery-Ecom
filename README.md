@@ -1,4 +1,4 @@
-# Project Title
+# MySql Queries For Ecommerce Website
 
 ## Description
 This repository contains the SQL dump for an e-commerce web application. The SQL dump includes the structure and data for various tables that are essential for the functioning of the application. The database is designed to manage products, customers, orders, and other related entities.
